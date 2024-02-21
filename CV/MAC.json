@@ -202,6 +202,17 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP Desarrollo Aplicaciones Multiplataforma",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Salesianos (Ntra. Señora del Pilar)",
+          "description": "FP Desarrollo Aplicaciones Multiplataforma"
+        },
+        "finishDate": "2017-09-01"
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Ing. Informática",
