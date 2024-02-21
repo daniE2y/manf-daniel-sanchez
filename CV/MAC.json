@@ -249,6 +249,20 @@
           "name": "UNED",
           "description": "Ing. Informática (UNED)"
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Mirakl. Marketplace business analyst",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Mirakl",
+          "description": "Mirakl. Marketplace business analyst",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/b5075ab8-b3e3-4b26-ac1b-9afe0f281d21_logo-mirakl-blue-sta.png",
+            "alt": "Logo-Mirakl-Blue-Standard.png"
+          }
+        }
       }
     ]
   },
