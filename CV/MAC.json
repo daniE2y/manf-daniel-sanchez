@@ -1,0 +1,133 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Sanchez Gracia",
+      "title": "Title",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/bd04d825-692e-4681-9684-dfbb2e47c32b_profile-picture-02.jpeg",
+        "alt": "profile-picture-02.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Playwright",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "sanchez.daniel.dev@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Jenkins",
+        "type": "technology"
+      },
+      {
+        "name": "Postman",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I would like a job with interesting technological problems to be solved.\nMentoring is a must. I love mentoring people, it's the easiest way to be a better professional.\nHaving workmates who inspire you is important.\n\nGood practices are a must too. During my last year working in tech, I was using TDD approach (so many times as I could), doing code reviews and discussing possible solutions with the rest of the team.\n\nRegarding remote jobs, I prefer remote positions but having a co-working place or offices where I can go to work is a nice thing."
+  }
+}
