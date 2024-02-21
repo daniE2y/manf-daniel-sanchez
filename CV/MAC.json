@@ -199,6 +199,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Ing. Informática",
+        "startDate": "2023-12-01",
+        "institution": {
+          "name": "UNED",
+          "description": "Ing. Informática (UNED)"
+        }
+      }
     ]
   },
   "careerPreferences": {
