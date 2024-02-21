@@ -204,6 +204,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso CodelyTV. SOLID principles",
+        "startDate": "2018-11-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Curso CodelyTV. SOLID principles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/4f33751a-79c0-4d82-aaa9-450feaa4f1c7_codelytv.jpeg",
+            "alt": "codelyTV.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso CodelyTV. TDD (Test Driven Development)",
         "startDate": "2022-12-01",
         "institution": {
