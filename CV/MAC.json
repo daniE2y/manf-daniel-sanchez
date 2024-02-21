@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/danisanga"
       }
     ]
   },
@@ -278,6 +282,10 @@
         {
           "URL": "https://www.linkedin.com/in/danielsanchezgracia/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/danisanga",
+          "type": "github"
         }
       ],
       "contactMails": [
