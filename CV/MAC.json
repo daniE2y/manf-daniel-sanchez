@@ -20,7 +20,13 @@
         "region": "Aragón",
         "municipality": "Zaragoza"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -268,6 +274,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/danielsanchezgracia/",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "sanchez.daniel.dev@gmail.com"
       ]
