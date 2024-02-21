@@ -26,6 +26,57 @@
     "jobs": [
       {
         "organization": {
+          "name": "Zinkee",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/5d8fd361-8038-4ffc-8886-e7935b3bb67e_zinkee_logo.jpeg",
+            "alt": "zinkee_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software developer. Product developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "**RESPONSIBILITIES**\n\n- Full-stack development of a SaaS project for Pyme management.\n- My primary role at Zinkee was to foster a culture based on best software development practices (TDD, testing, …).\n- Leading numerous integrations with third-party technologies (user interaction, API documentation, ...)\n\n**KEY ACCOMPLISHMENTS**\n\n- Initiated the QA team, including the creation of the project and methodology. Provided mentorship to the team.\n- I had the opportunity to give my first technical talk on unit testing with *Junit* and *Mockito*."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular Universal",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "e2y commerce (an NTT company)",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/2057bf80-b657-4965-be77-40a4a6e37b85_e2y_limited_logo.jpeg",
