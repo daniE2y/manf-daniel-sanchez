@@ -202,6 +202,20 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso CodelyTV. TDD (Test Driven Development)",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Curso CodelyTV. TDD (Test Driven Development)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/e1fa705b-5678-40ac-affd-0b08986d4f08_codelytv.jpeg",
+            "alt": "codelyTV.jpeg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "FP Desarrollo Aplicaciones Multiplataforma",
@@ -213,7 +227,7 @@
         "finishDate": "2017-09-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ing. Informática",
         "startDate": "2023-12-01",
