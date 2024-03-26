@@ -189,6 +189,49 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "DXC Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/a563f914-5e8c-4da8-ae8d-385443f5585a_dxc_logo.png",
+            "alt": "dxc_logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer. Banking apps",
+            "startDate": "2020-10-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Banking apps development with CaixaBank architecture. \n\n**RESPONSIBILITIES**\nDuring this time I started managing little projects, ensuring delivery quality."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
