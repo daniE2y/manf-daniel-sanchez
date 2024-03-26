@@ -323,6 +323,10 @@
           "type": "technology"
         },
         {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
           "name": "Kotlin",
           "type": "technology"
         },
