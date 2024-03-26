@@ -275,6 +275,36 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "DXC Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/37f682a5-0c86-4b14-bb9b-ab2a3eb331b2_dxc_logo.png",
+            "alt": "dxc_logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer. Banking apps",
+            "startDate": "2018-05-01",
+            "finishDate": "2019-01-01",
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
