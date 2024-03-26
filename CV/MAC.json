@@ -93,6 +93,53 @@
         "organization": {
           "name": "e2y commerce (an NTT company)",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/0ddbf301-f910-476d-a104-48de161db314_e2y_limited_logo.jpeg",
+            "alt": "e2y_limited_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "*RESPONSIBILITIES*\n- Primarily concentrated on backend development with additional contributions to other technical aspects of projects, including Quality Assurance (QA).\n- Involvement in diverse projects catering to B2C and B2B domains, serving clients such as Coca-Cola and Worldpay.\n- Working on the migration from a monolithic architectural approach to a distributed one, enhancing scalability and performance.\n- Technical refinement of features, with detailed and comprehensive pre- implementation studies.\n- Authored documentation to streamline the development team's workflow, fostering efficiency and collaboration.\n\n*KEY ACCOMPLISHMENTS*\n- Delivering continuous functionalities for a high-performance project, always contributing value to the customer.\n- Documentation of crucial aspects of the project, proving immensely helpful for new team members.\n- Successful delivery of a project involving a complex version upgrade within the client's specified timeframe."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "e2y commerce (an NTT company)",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/2057bf80-b657-4965-be77-40a4a6e37b85_e2y_limited_logo.jpeg",
             "alt": "e2y_limited_logo.jpeg"
           }
