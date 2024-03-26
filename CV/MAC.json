@@ -232,6 +232,49 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Hiberus",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/73c34306-5a3f-48a8-ac59-b86e2d163420_hiberus_logo.jpeg",
+            "alt": "hiberus_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software developer. E-commerce development",
+            "startDate": "2019-02-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "**KEY ACCOMPLISHMENTS**\n\n- Delivering continuous functionalities for a high-performance project, always contributing value to the customer.\n- Documentation of crucial aspects of the project, proving immensely helpful for new team members."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
