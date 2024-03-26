@@ -319,6 +319,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
           "name": "Kotlin",
           "type": "technology"
         }
