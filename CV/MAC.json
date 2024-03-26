@@ -306,6 +306,32 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "danisanga.xyz",
+          "description": "Personal website. I usually write blog posts about software and soft skills!",
+          "URL": "https://www.danisanga.xyz/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "Astro",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -528,6 +554,11 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I would like a job with interesting technological problems to be solved.\nMentoring is a must. I love mentoring people, it's the easiest way to be a better professional.\nHaving workmates who inspire you is important.\n\nGood practices are a must too. During my last year working in tech, I was using TDD approach (so many times as I could), doing code reviews and discussing possible solutions with the rest of the team.\n\nRegarding remote jobs, I prefer remote positions but having a co-working place or offices where I can go to work is a nice thing."
+    "desiredJobDescription": "I would like a job with interesting technological problems to be solved.\nMentoring is a must. I love mentoring people, it's the easiest way to be a better professional.\nHaving workmates who inspire you is important.\n\nGood practices are a must too. During my last year working in tech, I was using TDD approach (so many times as I could), doing code reviews and discussing possible solutions with the rest of the team.\n\nRegarding remote jobs, I prefer remote positions but having a co-working place or offices where I can go to work is a nice thing.",
+    "projects": [
+      {
+        "name": "danisanga.xyz"
+      }
+    ]
   }
 }
