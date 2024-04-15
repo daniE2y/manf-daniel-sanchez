@@ -397,16 +397,6 @@
         "finishDate": "2017-09-01"
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Ing. Informática",
-        "startDate": "2023-12-01",
-        "institution": {
-          "name": "UNED",
-          "description": "Ing. Informática (UNED)"
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Mirakl. Marketplace business analyst",
